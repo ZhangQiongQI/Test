@@ -9,3 +9,7 @@ dev1 branch line
 master branch line
 
 feature1 branch line
+
+stash line
+
+dev branch line
